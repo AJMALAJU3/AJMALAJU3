@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmalaju3&label=Profile%20views&color=0e75b6&style=flat" alt="ajmalaju3" /> </p>
+
 
 <h1 align="center" >
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Ajmal+Aliyar!;+Expert+in+MernStack!" />
@@ -46,7 +46,7 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalaju3&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmalaju3&label=Profile%20views&color=0e75b6&style=flat" alt="ajmalaju3" /> </p>
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <br/>
 <div align="center">
